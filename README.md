@@ -1,6 +1,6 @@
 ### 👋About youngDa
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://lionontheshore.tistory.com/)
-[![Notion Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=notion&link=https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)](https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)
+[![Notion Badge](http://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=notion&link=https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)](https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayoung-lee-0019ab1aa/)](https://www.linkedin.com/in/dayoung-lee-0019ab1aa/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ldy0956@gmail.com)      
 
