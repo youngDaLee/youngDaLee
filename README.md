@@ -1,4 +1,4 @@
-### 👋About Me
+### Hi There!👋
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://lionontheshore.tistory.com/)
 [![Notion Badge](http://img.shields.io/badge/-Portfolio-ligthgrey?style=flat-square&logo=notion&link=https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)](https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dayoung-lee-0019ab1aa/)](https://www.linkedin.com/in/dayoung-lee-0019ab1aa/)
