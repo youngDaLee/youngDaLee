@@ -5,6 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ldy0956@gmail.com)      
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
    
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=youngDaLee)](https://github.com/anuraghazra/github-readme-stats)
