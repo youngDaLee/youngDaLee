@@ -8,17 +8,15 @@
 
 ### 📚 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-
-[![Notion Badge](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&link=https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)](https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
- <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
- <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
- <img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=Elastic&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-DCs82D?style=flat&logo=Redis&logoColor=white"/>
- <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
- <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DCs82D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 
 ### 💬 More About Me
 [![Notion Badge](http://img.shields.io/badge/-Portfolio-a1a094?style=flat-square&logo=notion&link=https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)](https://www.notion.so/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)
