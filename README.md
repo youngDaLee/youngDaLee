@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DCs82D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
 
 ### 💬 More About Me
-[![Notion Badge](http://img.shields.io/badge/-Portfolio-a1a094?style=flat-square&logo=notion&link=https://night-saguaro-2ec.notion.site/Lee-Dayoung-fde6b7435b694cbc8960d0a28c005757)
+![Notion Badge](http://img.shields.io/badge/-Portfolio-a1a094?style=flat-square&logo=notion&link=https://night-saguaro-2ec.notion.site/Lee-Dayoung-fde6b7435b694cbc8960d0a28c005757)
 
 ### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ldy0956@gmail.com)      
