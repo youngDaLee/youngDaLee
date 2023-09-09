@@ -2,7 +2,7 @@
 ### I'm Jr.BackEnd Engineer
 
 ### 💬 More About Me
-[![Notion Badge](http://img.shields.io/badge/-Portfolio-a1a094?style=flat-square&logo=notion&link=https://youngda.notion.site/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)](https://youngda.notion.site/YoungDaLee-27c855989b0442b9af96b9f3a29a2917)
+[![Notion Badge](https://youngda.notion.site/YoungDaLee-27c855989b0442b9af96b9f3a29a2917?pvs=4)
 
 ### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ldy0956@gmail.com)      
