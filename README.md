@@ -2,7 +2,7 @@
 ### I'm Jr.Server Engineer
 
 ### 💬 More About Me
-[portfolio](https://youngdalee.github.io/)
+[portfolio](https://youngdalee.github.io/about/)
 
 ### 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:ldy0956@gmail.com)      
